@@ -1,6 +1,6 @@
 # YouTube - Dataset of 10k evaluated video views
 
-A dataset of over 10k evaluated YouTube video streaming sessions collected at the end of 2015 in a testbed at Technical University of Munich, Germany.
+A dataset of over 10k evaluated YouTube video streaming sessions collected at the end of 2015 in a testbed at Technical University of Munich, Germany. Published on IFIP Networking Conference in 2016, Vienna, Austria.
 
 ## Explanation
 
