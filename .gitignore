@@ -1,0 +1,10 @@
+*.swp
+*.kdev4
+*.pyc
+~*
+__pycache__
+.spyderworkspace
+.spyderproject
+.ipynb_checkpoints/
+.idea/
+
