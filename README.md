@@ -1,0 +1,25 @@
+# YouTube - Dataset of 10k evaluated video views
+
+A dataset of over 10k evaluated YouTube video streaming sessions collected at the end of 2015 in a testbed at Technical University of Munich, Germany.
+
+## Explanation
+
+## CITATION
+
+If you are using this dataset for scientific publications, please cite the following paper:
+
+Christian Sieber, Poul Heegaard, Tobias Hoßfeld, Wolfgang Kellerer, *Sacrificing Efficiency for Quality of Experience: YouTube’s Redundant Traffic Behavior *, IFIP Networking 2016, Vienna, Austria
+
+Bibtex:
+
+```
+@INPROCEEDINGS{sieber16sacrificing,
+  author="Christian Sieber and Poul E. Heegaard and Tobias {Ho{\ss}feld} and Wolfgang Kellerer",
+  title="Sacrificing Efficiency for Quality of Experience: {YouTube's} Redundant Traffic Behavior",
+  booktitle="IFIP Networking 2016 Conference (Networking 2016)",
+  address="Vienna, Austria",
+  month={May},
+  year=2016
+}
+```
+
