@@ -2,7 +2,14 @@
 
 A dataset of over 10k evaluated YouTube video streaming sessions collected at the end of 2015 in a testbed at Technical University of Munich, Germany. Published on IFIP Networking Conference in 2016, Vienna, Austria.
 
-## Explanation
+## Files
+
+ * *data/ifip\_networking.csv.gz*: Dataset in CSV format.
+ * *data/ifip\_networking.csv.gz*: Dataset in arff format. 
+
+## Columns / Metric Description
+
+Refer to [METRICS.md](METRICS.md) for a detailed description of the columns in the dataset.
 
 ## CITATION
 
