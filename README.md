@@ -11,6 +11,12 @@ A dataset of over 10k evaluated YouTube video streaming sessions collected at th
 
 Refer to [METRICS.md](METRICS.md) for a detailed description of the columns in the dataset.
 
+## Notebooks
+
+We provide the following notebooks as guideline to the dataset:
+
+  * [avg\_quality](notebooks/avg_quality.ipynb): How to plot network shaping to average quality
+
 ## CITATION
 
 If you are using this dataset for scientific publications, please cite the following paper:
