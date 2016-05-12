@@ -5,7 +5,7 @@ A dataset of over 10k evaluated YouTube video streaming sessions collected at th
 ## Files
 
  * *data/ifip\_networking.csv.gz*: Dataset in CSV format.
- * *data/ifip\_networking.csv.gz*: Dataset in arff format. 
+ * *data/ifip\_networking.arff.gz*: Dataset in [ARFF](http://www.cs.waikato.ac.nz/ml/weka/arff.html) format for use with [WEKA](http://www.cs.waikato.ac.nz/~ml/)
 
 ## Columns / Metric Description
 
