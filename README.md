@@ -21,6 +21,10 @@ We provide the following notebooks as guideline to the dataset:
 
 Information about the raw experiment logs can be found in [RAW.md](RAW.md).
 
+## YouTube Video Selection Tool
+
+Please see [here](ytsearch/README.md) for a description and the script how we automatically selected the videos.
+
 ## CITATION
 
 If you are using this dataset for scientific publications, please cite the following paper:
