@@ -17,6 +17,10 @@ We provide the following notebooks as guideline to the dataset:
 
   * [avg\_quality](notebooks/avg_quality.ipynb): How to plot network shaping to average quality
 
+## Raw Experiment Logs
+
+Information about the raw experiment logs can be found in [RAW.md](RAW.md).
+
 ## CITATION
 
 If you are using this dataset for scientific publications, please cite the following paper:
