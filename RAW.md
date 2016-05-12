@@ -59,10 +59,6 @@ The request log contains the (filtered) browser requests for the DASH segments.
 | tx_aborted              | Connection aborted                      | boolean  | Was the connection interrupted?                                                                                          |
 | tx_md5                  | MD5 Hash of the transferred content     | char     |                                                                                                                          |
 | tx_bytehdr              | First 50 Bytes of the received content  | char     | base64 encoded Bytes                                                                                                     |
-|  Calculated values                                                                                                                                                                                   ||||
-| tx_range_end_sec        | Transferred range end (Sec)             | double   | Transferred segment in seconds (end)                                                                                     |
-| tx_range_start_sec      | Transferred range start (Sec)           | double   | Transferred segment in seconds (start)                                                                                   |
-
 ==== channelhistogramvalue.csv ====
 
 The channel histogram contains the values used for shaping the network connection.
