@@ -1,6 +1,6 @@
 # Raw Experiment Logs
 
-The raw experiment log files can be downloaded from Google Drive [here](https://drive.google.com/file/d/0B1GmpzRMOpwIbUZQeTZ2RnBVMUU/view?usp=sharing) (143 MB).
+The raw experiment log files can be downloaded from Google Drive [here](https://drive.google.com/file/d/0B1GmpzRMOpwIbUZQeTZ2RnBVMUU/view?usp=sharing) (143 MB). An index file which translates video bytes to frame numbers and seconds of all evaluated videos can be downloaded [here](https://drive.google.com/open?id=0B1GmpzRMOpwIUlJNQndQQklGRnM) (23 MB).
 
 ## Structure
 
